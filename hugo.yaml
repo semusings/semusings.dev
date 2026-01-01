@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://www.semusings.dev"
 languageCode: "en-us"
 title: "Software Engineering Musings"
 theme: hugo-profile
@@ -432,3 +432,4 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
